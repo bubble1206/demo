@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "AUTOBVT-FH2F4Q0",
+    "children" : [ {
+      "name" : "30864-MainThread",
+      "children" : [ {
+        "name" : "Test01.test02",
+        "uid" : "5eb110318d3a756a",
+        "parentUid" : "e971613bc8df35a12b0f1a1569be9ee1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1568259115239,
+          "stop" : 1568259115241,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01.test03",
+        "uid" : "48d1907bd4469059",
+        "parentUid" : "e971613bc8df35a12b0f1a1569be9ee1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1568259115242,
+          "stop" : 1568259115244,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01.test01",
+        "uid" : "2b4cf8cc4921134c",
+        "parentUid" : "e971613bc8df35a12b0f1a1569be9ee1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1568259115218,
+          "stop" : 1568259115237,
+          "duration" : 19
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e971613bc8df35a12b0f1a1569be9ee1"
+    } ],
+    "uid" : "e327ed4e03bd86cfd4a5e5085c9eabc4"
+  } ]
+}
